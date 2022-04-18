@@ -1,8 +1,8 @@
 # [ICME 2022] ZSPU: "Zero-Shot" Point Cloud Upsampling
 
 ### News
+Self-training code released. PU and PS data released.
 
-Code releasing soon.
 ### Introduction
 
 This repository is for our submitted paper for ICME 2022 '["Zero-Shot" Point Cloud Upsampling]'. The code is modified from [PU-GAN](https://github.com/liruihui/PU-GAN), [3PU](https://github.com/yifita/3PU) and [PU-Net](https://github.com/yulequan/PU-Net). 
