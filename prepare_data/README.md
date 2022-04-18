@@ -13,7 +13,7 @@ cmake .
 make
 ```
 
-Change `[num_points']` to the sampled number of interest:
+Change `[num_points]` to the sampled number of interest:
 ```angular2html
 ./PdSampling [num_points] xxx.off xxx.xyz
 ```
