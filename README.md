@@ -5,7 +5,7 @@ Self-training code released. PU and PS data released.
 
 ### Introduction
 
-This repository is for our submitted paper for ICME 2022 '["Zero-Shot" Point Cloud Upsampling]'. The code is modified from [PU-GAN](https://github.com/liruihui/PU-GAN), [3PU](https://github.com/yifita/3PU) and [PU-Net](https://github.com/yulequan/PU-Net). 
+This repository is for our submitted paper for ICME 2022. The code is modified from [PU-GAN](https://github.com/liruihui/PU-GAN), [3PU](https://github.com/yifita/3PU) and [PU-Net](https://github.com/yulequan/PU-Net). 
 
 ### Installation
 This repository is based on Tensorflow and the TF operators from PointNet++. Therefore, you need to install tensorflow and compile the TF operators. 
