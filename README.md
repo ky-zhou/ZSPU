@@ -10,7 +10,7 @@ This repository is for our submitted paper for ICME 2022 '["Zero-Shot" Point Clo
 ### Installation
 This repository is based on Tensorflow and the TF operators from PointNet++. Therefore, you need to install tensorflow and compile the TF operators. 
 
-For installing tensorflow, please follow the official instructions in [here](https://www.tensorflow.org/install/install_linux). The code is tested under TF1.15 (lower version should also work) and Python 3.6 on Ubuntu 18.04.
+For installing tensorflow, please follow the official instructions in [here](https://www.tensorflow.org/install/install_linux). The code is tested under TF1.15 (lower version should also work) with CUDA 10.0 and Python 3.6 on Ubuntu 18.04.
 
 For compiling TF operators, please check `tf_xxx_compile.sh` or `tf_xxx_compile_abi.sh` under each op subfolder in `code/tf_ops` folder. Note that you need to update `nvcc`, `cuda` and `tensoflow include library` if necessary. 
 
