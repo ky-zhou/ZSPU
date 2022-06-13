@@ -62,3 +62,12 @@ Please consider citing this paper with the following bibtex if you are intereste
         year      = {2022}
     }
 
+Please cite this paper with the following bibtex:
+
+    @inproceedings{feng2022np,
+        author    = {Wanquan Feng and Jin li and Hongrui Cai and Xiaonan Luo and Juyong Zhang},
+        title     = {Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling},
+        booktitle = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition (CVPR)},
+        year      = {2022}
+    }
+
