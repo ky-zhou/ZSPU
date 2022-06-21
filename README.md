@@ -1,7 +1,7 @@
-# [ICME 2022] ZSPU: "Zero-Shot" Point Cloud Upsampling
+# [ICME 2022] (Oral) ZSPU: "Zero-Shot" Point Cloud Upsampling
 
 ### News
-Self-training code released. PU and PS data released.
+Self-training code released. PU and PS xyz data released. PU mesh data released.
 
 ### Introduction
 
@@ -53,12 +53,12 @@ Then, use `evaluate.py` to gain the quantitative results:
     ```
 
 ## Citation
-Please consider citing this paper with the following bibtex if you are interested in this paper:
+Please consider citing this paper with the following bibtex if you are interested in this work:
 
     @inproceedings{zhou2022zspu,
         author    = {Zhou, Kaiyue and Dong, Ming and Arslanturk, Suzan},
         title     = {"Zero-Shot" Point Cloud Upsampling},
-        booktitle = {2022 IEEE International Conference on Multimedia and Expo (ICME)},
+        booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
         year      = {2022}
     }
     
