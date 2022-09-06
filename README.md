@@ -55,11 +55,13 @@ Then, use `evaluate.py` to gain the quantitative results:
 ## Citation
 Please consider citing this paper with the following bibtex if you are interested in this work:
 
-    @inproceedings{zhou2022zspu,
-        author    = {Zhou, Kaiyue and Dong, Ming and Arslanturk, Suzan},
-        title     = {"Zero-Shot" Point Cloud Upsampling},
-        booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
-        year      = {2022}
-    }
+   @inproceedings{zhou2022zero,
+     title={“Zero-Shot” Point Cloud Upsampling},
+     author={Zhou, Kaiyue and Dong, Ming and Arslanturk, Suzan},
+     booktitle={2022 IEEE International Conference on Multimedia and Expo (ICME)},
+     pages={1--6},
+     year={2022},
+     organization={IEEE}
+   }
     
 
